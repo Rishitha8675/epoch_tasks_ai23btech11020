@@ -1,0 +1,6 @@
+- Filtered the data using a shape file (".geojson" format) of my Home State (Andhra Pradesh). You can find the code in data_filtering.py.
+- Then, saved the Home State data in a new .csv file named "HomeState_data.csv".
+- Using Folium and the latitude and longitude data from "HomeState_data.csv", I plotted the locations in my home state and saved it in an HTML file "HomeState_map.html". You can find the code in data_visualization.py.
+- In k_means_clustering.py, used the Elbow method to find an optimal value of K.
+- Found an optimal value of K, and divided the state into K clusters.
+- Mentioned the similarities and common features within the clusters in the inferences.md file.
