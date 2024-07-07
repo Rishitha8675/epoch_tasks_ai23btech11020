@@ -21,3 +21,5 @@
      - LSTM: Code in file: "lstm_sent_analysis.py" (may have limited performance due to data).
 
 Due to insufficient data, the RNN and LSTM models may not perform as well as expected.
+
+**large file sizes of alphabets_28*28.csv and alphabets_data.csv restricts us from uploading them to the current repo but I choose not to upload the file as they are given in the assignment itself and other can be obtained from moving through the codes**
